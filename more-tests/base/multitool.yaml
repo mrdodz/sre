@@ -4,7 +4,7 @@ metadata:
   labels:
     run: multi01
   name: multi01
-  namespace: argocd
+  namespace: testbed
 spec:
   containers:
   - image: praqma/network-multitool

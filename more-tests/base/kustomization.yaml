@@ -8,4 +8,4 @@ resources:
 commonLabels:
   owner: dodz
   org: apexLemons
-namespace: devops-toolkit
+namespace: testbed
